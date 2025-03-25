@@ -1,0 +1,4 @@
+Aclaración interfaz gráfica
+Por más que intenté, a pesar de que en mi computador me ejecuta con imágenes el ch máquina, intenté en otros dispositivos y por las imágenes el archivo impide la ejecución, por eso, el proyecto .rar adjunto no contendrá en su interfaz las imágenes. Sin embargo, en el archivo expectativa.png está el cómo se debería ver la interfaz gráfica para hacer una idea y el programa sirve perfectamente sin imágenes
+NOTA: el proyecto en netbeans puede aparecer (unloadable) si ocurre esto espere un momento, si el problema persiste de click derecho en el proyecto y después clean and build.
+NOTA: Si desea ejecutar el archivo en Netbeans, descargue o actualice una versión de jdk igual o posterior a 20, puesto que de otro modo el ejecutable le mostrará el error de target 20, procure también tener una versión actualizada de netbeans a la fecha del 3 de octubre de 2023

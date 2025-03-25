@@ -1,0 +1,31 @@
+Bienvenido a la guía de instalación del ch-máquina Luis Miguel Henao García
+A continuación los pasos para hacer de la instalación más eficiente y sencilla
+Paso 1:
+Diríjase a los siguientes links:
+NETBEANS ENTORNO DE PROGRAMACIÓN DE JAVA: 
+https://www.apache.org/dyn/closer.cgi/netbeans/netbeans-installers/19/Apache-NetBeans-19-bin-windows-x64.exe
+INTÉRPRETE DE JAVA:
+https://www.oracle.com/co/java/technologies/downloads/#jdk21-windows
+Paso 2:
+seleccione en el primer link la primera opción que tiene como se observa en el video
+seleccione en el segundo enlace x64 installer si tiene windows
+Paso 3: 
+Descargue los archivos que están adjuntos a esta guía de instalación (Archivo sistemaOperativo.rar y archivos.ch)
+Paso 4:
+ejecute los archivos instalados en el paso dos y proceda con la instalación
+Paso 5:
+extraiga el archivo .rar sistemaoperativo
+Paso 6:
+ejecute el programa netbeans
+Paso 7:
+diríjase a la parte superior izquierda de netbeans en la opción file<Open Proyect
+Paso 8:
+busque en su explorador de archivos la carpeta extraída y selecciónela
+Paso 9:
+de doble click al archivo con ícono de taza de café, abra sourcePackages<vista
+Paso 10:
+de click derecho<run file al archivo sistema operativo
+
+Listo! ya puede usar el ch-máquina
+Para un tutorial más específico, práctico y entendible véase el video adjunto.
+ 

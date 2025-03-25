@@ -1,0 +1,2 @@
+vista.DinosaurPanel
+vista.DinosaurAnimation
